@@ -1,0 +1,2 @@
+# dict
+Dicionarios para goldendict
